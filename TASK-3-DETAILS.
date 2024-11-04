@@ -1,0 +1,18 @@
+ Project Overview
+This analysis will employ Power BI and Tableau to uncover insights through exploratory analysis and visualizations.
+## Data Acquisition
+
+1. Obtain the Netflix dataset from sources like Kaggle or DataCamp.
+2. Data Cleaning and Preparation
+3. Remove Missing Values: Ensure no crucial data is missing that could skew the analysis.
+4.Handle Duplicates: Eliminate any repeated entries to maintain data integrity.
+5.Standardize Data: Ensure consistent formats for variables such as movie titles, genres, and ratings.
+
+Exploratory Data Analysis (EDA)
+
+1.Identify Key Variables: Focus on factors like genres, directors, release years, ratings, and viewer counts.
+2.Correlation Analysis: Use statistical methods to find correlations between these factors and viewership or ratings.
+3.Distribution Analysis: Understand the distribution of movies and TV shows across different genres and years.
+4.Data Visualization
+
+Power BI and Tableau Dashboards: Create interactive dashboards to display MYfindings.
