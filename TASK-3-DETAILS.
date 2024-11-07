@@ -15,4 +15,31 @@ Exploratory Data Analysis (EDA)
 3.Distribution Analysis: Understand the distribution of movies and TV shows across different genres and years.
 4.Data Visualization
 
-Power BI and Tableau Dashboards: Create interactive dashboards to display MYfindings.
+Power BI and Tableau Dashboards: Create interactive dashboards to display my findings.
+## FOR MY DEMO VIDEO/VISUALIZATION. 
+
+CognoRise InfoTech: Netflix Dataset Demo Video
+Welcome to My Netflix Dataset Demo Video
+
+Name: Netflix Dataset Level: CognoRise InfoTech Intern Analyst: Eme Joy Uchenna Task: Netflix Dataset Analysis
+
+Requirements of Netflix Dataset
+The dataset focuses on Netflix movies and TV shows. Using Power BI and Tableau, I analyzed various aspects such as the distribution of movies across countries and ratings. The visualizations provide valuable insights into Netflix's content library and viewership trends.
+
+Calculated KPIs using DAX
+Total Movies: 8782 Purpose: To quantify the extensive library of movies available on Netflix, providing a baseline for further analysis and comparison.
+
+Total Countries: 87 Purpose: To highlight the global reach of Netflix's content, showcasing the diversity and accessibility of its offerings across multiple regions.
+
+Total Directors: 4526 Purpose: To demonstrate the variety of creative talent contributing to Netflix's content, reflecting the platform's commitment to diverse storytelling and production quality.
+
+Calculated Visualization Charts
+Movies by Country Type: Clustered Bar Charts Purpose: To illustrate the distribution of movies produced by different countries, highlighting regional contributions to Netflix's library and identifying key markets and content sources.
+
+Movies by Rating Type: Stacked Bar Charts Purpose: To categorize movies based on their ratings, providing insights into the quality and reception of content. This helps identify trends in audience preferences and the distribution of content ratings on the platform.
+
+Slicer for Movie Type
+Purpose: The slicer for movie type allows users to filter the dataset based on different types of content, such as movies or TV shows. This interactive feature enhances the analysis by providing a flexible way to explore specific subsets of data, making it easier to identify patterns and insights tailored to different content types.
+
+Appreciation Message for CognoRise InfoTech
+I want to express my sincere gratitude to CognoRise InfoTech for the data provided for my analysis. The insights I have gained from the data have been absolutely invaluable and have helped me tremendously. Thank you for your support!
